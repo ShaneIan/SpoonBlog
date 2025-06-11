@@ -28,7 +28,7 @@ permalink: /contact/
             <ul>
                 <li><strong>Email:</strong> <code>spooncatsbox@gmail.com</code></li>
             </ul>
-            <p><em>I'll probably add Discord later, and might start a TikTok or X account, but for now I'm keeping it simple with this laid-back blog approach!</em></p>
+            <p><em>I'll probably add Discord later, and might start a TikTok or Twitter account, but for now I'm keeping it simple with this laid-back blog approach!</em></p>
         </div>
         
         <h3>What I'd Love to Chat About</h3>
