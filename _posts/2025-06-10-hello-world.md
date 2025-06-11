@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World - Welcome to My Journey"
-date: 2025-01-15
+date: 2025-06-10
 categories: [intro, personal]
 tags: [cybersecurity, learning, community]
 ---
