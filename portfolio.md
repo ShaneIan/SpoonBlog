@@ -48,7 +48,7 @@ permalink: /portfolio/
         
         <div class="methodology">
             <h4>Cybersecurity Research Experience</h4>
-            <p>Connected vehicle security research at University of Louisiana Lafayette's Cyphus Lab.</p>
+            <p>Connected vehicle security research at a University Lab.</p>
             <ul>
                 <li><strong>Focus:</strong> IoT security assessments, penetration testing methodologies</li>
                 <li><strong>Techniques:</strong> DoS attacks, port fuzzing, credential theft simulations</li>
